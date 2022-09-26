@@ -1,0 +1,15 @@
+.img{
+  border-radius: 50px;
+  height: 40px;
+  width: 40px;
+}
+
+body{
+  width: 300px;
+}
+
+#display{
+  background-color:rgb(232, 230, 227);
+  border: 1px dashed rgb(68, 65, 65);
+  padding-top: 3px;
+}

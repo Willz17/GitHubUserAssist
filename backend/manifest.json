@@ -1,0 +1,11 @@
+{
+  "name": "GitHub Action",
+  "version": "1.0.0",
+  "description": "Your github profile, repos and more",
+  "manifest_version": 3,
+  "author": "Wills Ekanem",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "GitHub Action"
+  }
+}
